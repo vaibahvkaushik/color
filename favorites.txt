@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 gol gappa
 misal pav
 Veg. Biryani
+=======
+Rockey and Rani
+Heart of Stone
+Dream girl
+Planet of the Apes
+>>>>>>> movies
